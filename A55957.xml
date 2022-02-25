@@ -1,0 +1,772 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the home-circuit on the King's commission of the Crown side, at the several assizes, (viz.) Hartford, Brentwood, Croydon, East-Grensted, and Rochester. Being a goal delivery held for the several counties, &amp;c. And in the fourth year of his Majesties reign. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55957</idno>
+            <idno type="STC">Wing P3588</idno>
+            <idno type="STC">ESTC R220543</idno>
+            <idno type="EEBO-CITATION">99831939</idno>
+            <idno type="PROQUEST">99831939</idno>
+            <idno type="VID">36406</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36406)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2054:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the home-circuit on the King's commission of the Crown side, at the several assizes, (viz.) Hartford, Brentwood, Croydon, East-Grensted, and Rochester. Being a goal delivery held for the several counties, &amp;c. And in the fourth year of his Majesties reign. With allowance.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by George Croom, at the Blue-Ball in Thames-street, near Baynard's-Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Gathered in 2's.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>County courts --  England --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36406:1"/>
+            <p>THE PROCEEDINGS OF THE <hi>Home-Circuit.</hi> ON THE King's Commiſſion On the Crown ſide, at the ſeveral ASSIZES, (Viz.) <hi>Hartford, Brentwood, Croydon, Eaſt-Grenſted,</hi> and <hi>Rocheſter.</hi>
+            </p>
+            <p>Being a <hi>Goal Delivery</hi> held for the ſeveral Coun<g ref="char:EOLhyphen"/>ties, <hi>&amp;c. And in the Fourth year of his Maje<g ref="char:EOLhyphen"/>ſties Reign.</hi>
+            </p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>George Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet,</hi> near <hi>Baynard</hi>'s-<hi>Caſtle.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="court_proceedings">
+            <pb facs="tcp:36406:2"/>
+            <pb n="3" facs="tcp:36406:2" rendition="simple:additions"/>
+            <div type="proceeding">
+               <head>THE PROCEEDINGS AT HARTFORD IN Hartford-ſhire, On <hi>Monday</hi> and <hi>Tueſday,</hi> being the 23d. and 24th. days of <hi>July,</hi> 1688.</head>
+               <p>AT the <hi>Aſſizes</hi> Held at <hi>Hertford</hi> on <hi>Monday</hi> and <hi>Tueſday,</hi> being the 23d. and 24th. days of <hi>July,</hi> 1688. the Commiſſion was read before Sir <hi>Richard Allibon</hi> Kt. one of His <hi>Majeſties</hi> Juſtices of the Court of <hi>King's-Bench,</hi> and the Grand Jury Sworn; it was to proceed to deliver the ſaid County of the Priſoners therein.</p>
+               <list>
+                  <item>Nicholas Marſhal,</item>
+                  <item>John Baldwin,</item>
+                  <item>John Sell,</item>
+                  <item>Walter Cooke,</item>
+                  <item>Samuel Holland,</item>
+                  <item>John Worſlely,</item>
+                  <item>Thomas Gutteridge,</item>
+                  <item>Thomas Crawley,</item>
+                  <item>Thomas Raymond,</item>
+                  <item>Solomon Pratt,</item>
+                  <item>James Jackſon,</item>
+                  <item>Henry Baker.</item>
+               </list>
+               <div type="part">
+                  <head>The Tryals of the Priſoners were as follows.</head>
+                  <p>
+                     <hi>John Norris</hi> and <hi>Philamon Bonniſs</hi> both late<g ref="char:EOLhyphen"/>ly of the Pariſh of <hi>Biſhops Hatfield,</hi> were In<g ref="char:EOLhyphen"/>dicted for that they the 29th. day of <hi>June</hi> laſt in the ſame Pariſh, did Rob one <hi>John Medcalfe</hi> on the High-way, and took from him a Whip, one Linnen Cap, and 3 <hi>l.</hi> in Money; the mature of the Evidence was ſuch, Mr. <hi>Medcalfe</hi> retur<g ref="char:EOLhyphen"/>ning to St. <hi>Albans,</hi> met in his way a Carrier's man and acquainted him with his Misfortune of being Robb'd, and in the mean time paſſed by the very Men that committed the Robbery, who were immediately followed by the Cirrier's man, and ſeen to go into an Inn at St. <hi>Albans;</hi> and the Conſtable being ſent for, Apprehended them, and found the Whip and Cap in the ſame Room with them, and a Vizard Mask in one of their Pockets: Mr. <hi>Medcalfe</hi> Swore that he knew their Faces, and they were both found Guilty of Fe<g ref="char:EOLhyphen"/>lony and Robery.</p>
+                  <p>
+                     <hi>Ann Dale</hi> of the Pariſh of <hi>Sabridgworth,</hi> Spinſter, was Indicted for the Murther of her Male Baſtard Child, on the 28th. day of <hi>April</hi> laſt. This great Crime was laid to her Charge upon this account, that a Child being found in a Pond near the Houſe where the Priſoner lived with its Throat Cut, all the Servants of the Fa<g ref="char:EOLhyphen"/>mily upon this Allarm, were very ready to ſee the Child, but the Priſoner when ſhe was with great difficulty perſwaded to it, appeared to be under a great Diſtraction. Several of her fellow-Servants depoſed that they had obſerved her to be bigger than ordinary before the Child was ſuppoſed to be Born, and at that time to be ſo Sick that ſhe kept her Chamber. She did not poſitively deny the Fact upon her Examination, but on her Tryal inſiſted upon her Innocency, and the Jury Acquitted her, the Proof not being clear enough that ſhe had any ſuch Child.</p>
+                  <pb n="4" facs="tcp:36406:3"/>
+                  <p>
+                     <hi>Joſeph Jackson</hi> of the Pariſh of <hi>All Saints</hi> in <hi>Hartford,</hi> was Tryed for the Murther of one <hi>William Kentiſh:</hi> Moſt of the Evidence con<g ref="char:EOLhyphen"/>ſiſted of what the party ſlain ſaid before he Died; he was heard to ſay that the Priſoner had ſtruck him and that he ſhould never recover it. The Chirurgeon that viewed him ſaid he found no Bruiſe about him when Dead, and did believe that he died a Natural Death by the Providence of God; and ſo the Priſoner for want of fur<g ref="char:EOLhyphen"/>ther Evidence, and upon this Affirmation of the Chirurgeon, was Acquitted.</p>
+                  <p>
+                     <hi>Suſan Barber</hi> alias <hi>Crane</hi> of the Pariſh of <hi>Buntingford,</hi> was Indicted for the Murther of a Female Baſtard Child about five years agoe: <hi>Sarah Dew</hi> a Witneſs for the King, proved that about the time in the Indictment laid, the Priſoner brought a dead Female Child to her, telling her that ſhe was Delivered of a Child three Months before its time, and ſo it appeared to the ſaid Witneſs, and ſo ſhe not endeavouring to Conceal the Child, ſhe was Acquitted.</p>
+                  <p>
+                     <hi>Suſan Anſell</hi> of <hi>Ware</hi> in the ſaid County, was Arraigned for ſtealing feloniouſly from one <hi>Tho. Griper,</hi> one Crape Gown and Serge Petticoat, both amounting to the value of 20 <hi>s.</hi> One Wit<g ref="char:EOLhyphen"/>neſs proved that ſhe had ſuch Goods in her cuſtody; but the party from whom the Goods were ſtolen being a Quaker, and refuſing to Swear, the Priſoner was Acquitted for want of Evidence.</p>
+                  <p>
+                     <hi>Lawrence Haſledoom</hi> was twice Indicted for Burning the Houſes of <hi>Daniel Flindon</hi> and <hi>Bridget Anſell,</hi> both in the Pariſh of <hi>Ikleford;</hi> he confeſſed the ſeveral Facts before ſeveral Per<g ref="char:EOLhyphen"/>ſons, and a ſharp Iron Rod was produced in Court, with which he confeſſed he had thruſt Touch-wood into the Thatch wrapt in Paper; but the Court and Jury believing the Priſoner to be of Imperfect memory, both at that time and ever ſince, he was Acquitted, and left in Goal to be taken care of by the Juſtices of Peace at their next Quarter Seſſions.</p>
+                  <p>
+                     <hi>Samuel Mead</hi> and <hi>Jane</hi> his Wife both of the pariſh of <hi>Stondon,</hi> were Indicted for the Mur<g ref="char:EOLhyphen"/>ther of one <hi>Joan Coale,</hi> an Infant, which the ſaid <hi>Mead</hi> was ſuppoſed to have Begotten on the Body of one <hi>Jane Cole.</hi> The Priſoners appeared to be of indifferent good Faſhion, and therefore ſuffered not the Child to be kept by the Pariſh, but provided a Nurſe themſelves, and the Child Dying quickly, they were accu<g ref="char:EOLhyphen"/>ſed of the Murther, but were both without much ſuſpicion, Acquitted.</p>
+                  <list>
+                     <head>The Tryals being over, the Court proceeded to give Judgment as follows, <hi>viz.</hi>
+                     </head>
+                     <item>
+                        <list>
+                           <head>2 Received Sentence of <hi>Death</hi> viz.</head>
+                           <item>
+                              <hi>John Norris,</hi>
+                           </item>
+                           <item>
+                              <hi>Philemon Baines,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Several old Convicts pleaded His <hi>Majeſties</hi> Gratious Pardon, under condition of Tranſpor<g ref="char:EOLhyphen"/>tation, <hi>viz.</hi>
+                           </head>
+                           <item>
+                              <hi>George Marſhall,</hi>
+                           </item>
+                           <item>
+                              <hi>Marjory Roberts,</hi>
+                           </item>
+                           <item>
+                              <hi>William Harriſon.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>And ſo the Court Adjourned:</p>
+               </div>
+            </div>
+            <div type="proceeding">
+               <head>The Proceedings at <hi>Brentwood</hi> in the County of <hi>Eſſex,</hi> on <hi>Wedneſ<g ref="char:EOLhyphen"/>day,</hi> and <hi>Thurſday,</hi> being the 25th. and 26th. days of <hi>July.</hi> 1688.</head>
+               <p>AT the <hi>Aſſizes</hi> held at <hi>Brentwood</hi> in <hi>Eſſex,</hi> on <hi>Wedneſday</hi> and <hi>Thurſday,</hi> being the 25th. and 26th. days of <hi>July,</hi> 1688. the Commiſſion was read before Sir <hi>Thomas Street</hi> Kt. one of His <hi>Majeſties</hi> Juſtices of His Court of <hi>Common-pleas,</hi> and the Jury was Sworn whoſe Names follow.</p>
+               <list>
+                  <item>
+                     <hi>Wignol Gilman,</hi>
+                  </item>
+                  <item>
+                     <hi>Stephen Winſton,</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Hamm,</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Petchy,</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Lodwiske,</hi>
+                  </item>
+                  <item>
+                     <hi>John Sharp,</hi>
+                  </item>
+                  <item>
+                     <hi>Bartholomew Tisby,</hi>
+                  </item>
+                  <item>
+                     <hi>Willliam Dale,</hi>
+                  </item>
+                  <item>
+                     <hi>William Francis,</hi>
+                  </item>
+                  <item>
+                     <hi>John Horner,</hi>
+                  </item>
+                  <item>
+                     <hi>William Shambrooke,</hi>
+                  </item>
+                  <item>
+                     <hi>John Debney.</hi>
+                  </item>
+               </list>
+               <div type="part">
+                  <head>The Tryals of the Priſoners were as follows.</head>
+                  <p>
+                     <hi>Robert Peirce</hi> was Indicted, for that he in the Pariſh of <hi>Chinckford,</hi> did Feloniouſly, Trai<g ref="char:EOLhyphen"/>terouſly, and of his Malice afore thought, Kill and Murther one <hi>Richard Hemings</hi> his Maſter. It appear'd that <hi>Hemings</hi> the Maſter who is Slain, refuſed to give leave to the Priſoner his Servant to go to <hi>London</hi> to buy new Cloaths, and the Servant giving ſome ſawcy words, the Maſter corrected him by ſtriking him, and thereupon
+<pb n="5" facs="tcp:36406:3"/> the Servant diſarm'd his Maſter, and ſo they fell to Fighting, and were parted by ſome that ſaw the Scuffle; but the Maſter after he had called help returned with a very large Stick in his hand, and the Servant catch'd up another that lay by him; the Maſter then ſtruck at the Man very violently, and the Servant being ſo provo<g ref="char:EOLhyphen"/>ked, ſtruck his Maſter upon the Head, of which ſtroak he Died; and this matter being given in Evidence by all the Witneſſes, the Priſoner was found guilty of Manſlaughter.</p>
+                  <p>
+                     <hi>John Cole</hi> alias <hi>Alſop,</hi> alias <hi>Sheppard,</hi> and <hi>John Fiſher,</hi> were both Indicted for Breaking open the houſe of <hi>Robert Harvey</hi> Eſq in the Night, at <hi>Low Layton</hi> in the County of <hi>Eſſex,</hi> on the 24th. of <hi>March</hi> laſt, and taking thence one ſilver Comb box, value 10 <hi>l.</hi> one ſilver Salt<g ref="char:EOLhyphen"/>ſellar, value 13 <hi>l.</hi> two round ſilver Boxes, value 10 <hi>l.</hi> three ſilver Caſtors, value 12 <hi>l.</hi> one Gold Ring with a Table Diamond infixed, value 30 <hi>l.</hi> and other Goods, in all to the value of 156 <hi>l.</hi> 19 <hi>s</hi> and 20 <hi>l.</hi> in Money. Two of the Witneſſes poſitively Swore they ſaw <hi>Cole</hi> in their ſeveral Chambers, and one of them was forced by him to riſe and go about the Houſe with him, to ſhew where the Booty lay, and that at the Stair-foot his Mask fell off, ſo that his Face might be eaſily diſcerned by the light of the Candle; and ſome broken pieces of Plate were found about <hi>Fiſher</hi> the other Priſoner, which one of the Witneſſes verily believed to be part of Mr. <hi>Harvey</hi>'s Comb box, from ſome Stains ſhe had formerly obſerved in it: She likewiſe affirmed, ſhe did verily believe him to be one of them that Robb'd the Houſe, but ſhe could not ſwear poſitively to it: But it appearing that <hi>Cole</hi> did uſually lye at <hi>Fiſher</hi>'s Houſe, it might poſſibly he that <hi>Fiſher</hi> might only receive the broken pieces of ſilver from <hi>Coale;</hi> ſo that the Jury brought in <hi>Cole</hi> only Guilty of the Burg<g ref="char:EOLhyphen"/>lary, and Acquitted <hi>Fiſher.</hi>
+                  </p>
+                  <p>
+                     <hi>John Cole</hi> alias <hi>Sheppard,</hi> was likewiſe Indict<g ref="char:EOLhyphen"/>ed for Feloniouſly ſtealing one Gray Gelding, value 8 <hi>l.</hi> and one Mare, value 4 <hi>l.</hi> from one <hi>Richard <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>yly<g ref="char:punc">▪</g>
+                     </hi> This Felony was likewiſe plainly proved upon him, and he was found Guilty.</p>
+                  <p>
+                     <hi>Charles Lee, Richard Stroud,</hi> and <hi>Richard Thomas</hi> were all three Indicted for Felony and Burglary, in breaking the Houſe of one <hi>Robert Levitt</hi> of <hi>Stibbing</hi> in the Night, on the 26th. of <hi>June,</hi> and taking thence Money and Goods to the value of 14 <hi>l.</hi> ſeveral of the Goods laid in the Indictment, were found about the Priſoners, but <hi>Levitt</hi> being a Quaker, did refuſe to Swear, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> no body the could prove thoſe Goods to have been his Goods and therefore the Priſoners were found not Guilty.</p>
+                  <p>
+                     <hi>Thomas Newcomb</hi> was Indicted for ſtealing Feloniouſly one ſilver Cup value 30 <hi>s.</hi> in the Pariſh of <hi>Carringham,</hi> from one <hi>Wood,</hi> who kept an Ale-houſe, and the Priſoner coming to Drink there, conveyed privately the Cup, as 'tis thought into his Breeches, which was miſſed immediately, as ſoon as he was gone out of the Houſe; and the Priſoner was proved to have pawned the ſame Cup to a Broker, and ſo was found Guilty.</p>
+                  <p>
+                     <hi>Martha Wood</hi> was Indicted for Murther, and Concealing the Death of her Female Baſtard Child, on the 20th. day of <hi>March</hi> laſt: The Evidence was thus, ſhe had been obſerved to have been bigger than ordinary about her Middle, and of a ſudden to grow leſs; and ſhe being ſo ſuſpected, was Searched by a Midwife, who found Milk in her Breaſts; and then being asked to diſcover where ſhe had laid her Child, ſhe preſently diſcovered the Place, which was in a Chamber, where ſhe was Delivered about three days before in an old Lodge in a Gentleman's Park, and there cover'd it with Hay: And ſo the Priſoner not being able to Prove that the Child was Born Dead, or that ſhe called Help at her Labour, but on the contrary, concealed all the matter, ſhe was found Guilty by the Jury.</p>
+                  <p>
+                     <hi>Mary Portway</hi> of the Pariſh of <hi>South-han<g ref="char:EOLhyphen"/>ningfield,</hi> was Indicted for Murthering of her Female Baſtard Child, and concealing it, on the 9th. day of <hi>June</hi> laſt; the Priſoner though ſhe was much miſtruſted, never diſcover'd that ſhe had any ſuch Child, till it was found out by the Stench, and then ſhe alledged that ſhe was Delivered in the Yard belonging to the Houſe where ſhe Dwelt; and that it was Dead, and ſo ſhe hid it: The Witneſſes proved the Child to the beſt of their apprehenſion, to have been of full Growth, or near it; and ſhe proving nothing of its being Born Dead, was likewiſe found Guilty.</p>
+                  <p>
+                     <hi>William Saffold</hi> was three ſeveral times In<g ref="char:EOLhyphen"/>dicted of ſeveral Felonies, and confeſſed them all, and all others within Clergy; b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing de<g ref="char:EOLhyphen"/>manded why the Court ſhould not proceed to Judgment, and thereupon award E<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cution of Death againſt him, he prayed the benefit of his Book; but the <hi>Ordinary</hi> putting him to read out of the common Place, he had not his Leſſon without Book, and ſo 'twas return'd that he could not Read, and the Court gave Sentence of Death againſt him, but did Reprieve him afterwards for Tranſportation.</p>
+                  <pb n="6" facs="tcp:36406:4"/>
+                  <p>
+                     <hi>Thomas Davis</hi> and <hi>Thomas Daviſon</hi> were Indicted for ſtealing one Mare coloured Gray, value 6 <hi>l.</hi> and one Gelding colour'd Bay, value 4 <hi>l.</hi> of a Perſon unknown. No Evidence could certainly prove that they were ſtolen, and therefore they were found Not Guilty.</p>
+                  <p>
+                     <hi>Ann Dixon</hi> of the Pariſh of <hi>Weſt Tilbury,</hi> was Indicted for forging a Brief, under the Hand and Seal of <hi>William</hi> Lord Arch-biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> the 10th. day of <hi>June</hi> laſt; ſhe con<g ref="char:EOLhyphen"/>feſſed the Indictment, but ſaid ſhe was induced to do it by ſome of better underſtanding than her ſelf, who told her there was no hurt in it. She was Sentenced to ſtand in the Pillory.</p>
+                  <p>
+                     <hi>William Mumford</hi> of the Pariſh of <hi>Mucking,</hi> was Indicted for ſtealing three Buſhels of Wheat, from one <hi>Sarah Edwards</hi> of the value of 3 <hi>s.</hi> 6 <hi>d.</hi> The Wheat was found upon him, and he found Guilty.</p>
+                  <list>
+                     <head>The Tryals being over, the Court proceeded to give Judgment as follows.</head>
+                     <item>
+                        <list>
+                           <head>3 Received Sentence of <hi>Death <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>John Cole</hi> alias <hi>Alſop,</hi> alias <hi>Sheppard,</hi>
+                           </item>
+                           <item>
+                              <hi>Mary Portway,</hi>
+                           </item>
+                           <item>
+                              <hi>Martha Wood,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>
+                              <hi>William Saffold,</hi> To be Tranſported.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>3 were <hi>Burnt</hi> in the <hi>Hand,</hi> viz.</head>
+                           <item>
+                              <hi>Robert Peirce,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Newcomb,</hi>
+                           </item>
+                           <item>
+                              <hi>William Mumford.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>
+                              <hi>Ann Dixon</hi> was Sentenced to be ſet upon the Pillory for two Hours, at <hi>Chelmsford.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Theſe ſeveral Priſoners under named pleaded His Majeſties Moſt Gracious Pardon, under condition of Tranſportation, <hi>viz.</hi>
+                           </head>
+                           <item>
+                              <hi>Daniel Caſter,</hi>
+                           </item>
+                           <item>
+                              <hi>Mary Tye,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Playn,</hi> alias <hi>Pagden,</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Price.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>2 were Pardoned Abſolutely, <hi>viz.</hi>
+                           </head>
+                           <item>
+                              <hi>Ambroſe Holland,</hi>
+                           </item>
+                           <item>
+                              <hi>Tobit Bedford.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>And ſo the Court Adjourned.</p>
+               </div>
+            </div>
+            <div type="proceeding">
+               <head>The Proceedings at <hi>Croydon,</hi> in the County of <hi>Surry,</hi> on <hi>Monday, Tueſday,</hi> and <hi>Wedneſday,</hi> being the 30th. 31ſt. days of <hi>July,</hi> and 1ſt. of <hi>Auguſt,</hi> 1688.</head>
+               <p>AT the <hi>Aſſizes</hi> held at <hi>Croydon</hi> in <hi>Surrey,</hi> on <hi>Monday, Tueſday,</hi> and <hi>Wedneſday,</hi> being the 30th. 31ſt. of <hi>July,</hi> and 1ſt. of <hi>Auguſt,</hi> 1688. the Commiſſion was read before Sir <hi>Richard Allibon</hi> Kt. and the Jury was Sworn, which were,
+<list>
+                     <item>
+                        <hi>John Theobald</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Smith</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel King</hi>
+                     </item>
+                     <item>
+                        <hi>John Dakins</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Strong</hi>
+                     </item>
+                     <item>
+                        <hi>John Francklyn</hi>
+                     </item>
+                     <item>
+                        <hi>John Kidgell</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Smith</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Story</hi>
+                     </item>
+                     <item>
+                        <hi>William Ellis</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hovil</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Hostins.</hi>
+                     </item>
+                  </list>
+               </p>
+               <div type="part">
+                  <head>The Tryals of the Priſoners were as follows.</head>
+                  <p>
+                     <hi>Owen Moriarty</hi> late of the Pariſh of <hi>Lam<g ref="char:EOLhyphen"/>beth,</hi> was Indicted for Murthering one <hi>Thomas Carey,</hi> the fifth day of <hi>June</hi> laſt. It appeared that the Priſoner and the Deceaſed fell out, and ſeveral angry words paſſed betwixt them in the Lord of <hi>Canterbury</hi>'s Palace; <hi>Moriarty</hi> there<g ref="char:EOLhyphen"/>upon went into the Church-yard and drew his Sword, but <hi>Carey</hi> not following, he return'd, and more words paſſed; and then <hi>Carey</hi> ſaid, if they muſt Fight, it would be convenient to go into the Field, and accordingly they immediately went and Fought; ſeveral followed them and ſtood near, not daring to part them, and after ſome time the Priſoner's Sword was broke, but he had firſt given the Deceaſed his Deaths Wound. Upon the Evidence he was found guilty of Manſlaughter.</p>
+                  <p>
+                     <hi>Peter Heaſey</hi> was Indicted of Felony, for ſteal<g ref="char:EOLhyphen"/>ing Goods to the value of 10 <hi>l.</hi> 10 <hi>s.</hi> on the 8th of <hi>March,</hi> in the 2 <hi>d.</hi> year of this King, from Mr. <hi>Francis Stone:</hi> The Priſoner upon his Ex<g ref="char:EOLhyphen"/>amination confeſſed ſome of the Goods to be by him taken, before the Juſtice of Peace, and Mr. <hi>Stone</hi> went to the Broker where the Goods were Pawn'd or Sold, and there found them; but all the Goods being not found upon him, he was found guilty to the value of 10 <hi>d.</hi> only.</p>
+                  <p>
+                     <hi>Lawrence Crockford, William Price, John Morey, Nathaniel Lee, William Probert</hi> and <hi>Thomas Emerſon,</hi> were Indicted of Felony and
+<pb n="7" facs="tcp:36406:4"/> Burglary, committed in the Houſe of one <hi>Judith Parrat,</hi> the 15th. of <hi>June</hi> laſt, and ſtealing Goods to the value of 20 <hi>l.</hi> or thereabout: The Proof was very ſhort, for all that appear'd againſt them was that <hi>Morey</hi>'s Wife brought ſeveral of the Goods to the Houſe of one <hi>Drinkwater;</hi> and <hi>Crockford</hi> confeſſed ſome of the Priſoners brought ſome of the Goods to his Houſe: But no Evidence being given of Break<g ref="char:EOLhyphen"/>ing the Houſe, and what <hi>Morey</hi> ſaid being no Evidence againſt the reſt, they were all Acquit<g ref="char:EOLhyphen"/>ted, none of the Goods being found upon them.</p>
+                  <p>
+                     <hi>Matthew Eldridge</hi> Indicted of Felony, for ſtealing 3 <hi>l.</hi> in Money from <hi>Ruth Dines,</hi> the 26th. of <hi>May</hi> laſt; the Money loſt was the new Mill'd Coin, and ſuch Money was found upon the Priſoner by <hi>Dines</hi> her Father, which he thought to be his Daughters: But no parti<g ref="char:EOLhyphen"/>cular mark being upon it, he could not Swear poſitively it was his Daughters, ſo the Priſoner was Acquitted.</p>
+                  <p>The ſame <hi>Matthew Eldridge</hi> was Indicted of Burglary, for Breaking the Houſe of <hi>Timothy Wilſon</hi> in the Night, and Stealing thence Goods to the value of 2 <hi>l.</hi> 8 <hi>s.</hi> and 11 <hi>l.</hi> in Money; the Money was moſt in Crown pieces, ſome of which were found about him; the Priſoner confeſſed to the Proſecutor that he had thoſe pieces out of his Houſe; that he came in at the Window, having firſt broken a Wooden Bar in the mid<g ref="char:EOLhyphen"/>dle of the Window. He was found Guilty of Felony and Burglary.</p>
+                  <p>
+                     <hi>Daniel Wogan</hi> and <hi>Philip Mackquire,</hi> were Indicted for a Robbery committed upon <hi>Mary Shaw,</hi> the 20th. of <hi>April</hi> laſt paſt, and taking from her one Gold Ring, value 10 <hi>s.</hi> 1 <hi>l.</hi> 12<hi>s.</hi> in Money: <hi>Shaw</hi> Swore ſhe was Robb'd, but knew not the Perſons. The Ring was offer'd to be pawn'd to one <hi>Nathaniel Skinner,</hi> for 2<hi>s.</hi> 6 <hi>d.</hi> and was accordingly left with him by <hi>Wogan:</hi> The Perſon that was Robb'd told the Poſey of the Ring before ſhe ſaw it. <hi>Wogan</hi> proved by one Woman that the ſame Ring was offer'd the day before he Pawn'd it to her, to be Pawn'd by another Man; and ſhe being a Woman of ſome Credit, the Jury believed her, and the Priſoners were found not Guilty.</p>
+                  <p>
+                     <hi>James Hopeway</hi> was Indicted for Killing one <hi>Richard Sealy</hi> with his Drawn Sword, the 28th. of <hi>May</hi> laſt; the manner was thus, <hi>Faldow</hi> a Soldier and the Priſoner Lodged in the Houſe of one <hi>Price;</hi> and it ſeems the Priſoner took away a Candle that <hi>Faldow</hi> had, and being asked why he took it; he in great heat threw down the Candle, and told <hi>Faldow</hi> that he would Stob him, and preſently went up two or three Steps into his Chamber, and fetch'd down his Sword, and run the ſaid <hi>Richard Sealy,</hi> being in the yard, twice into the Body, whereof he Died; 'twas believed the Priſoner took <hi>Sealy</hi> for <hi>Faldow,</hi> for it appear'd <hi>Sealy</hi> was never in the Houſe, and had never ſeen the Priſoner. He made but a ſmall Defence, and was therefore found guilty of Murther.</p>
+                  <p>
+                     <hi>John Wo<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ral</hi> was Indicted for Feloniouſly ſteal<g ref="char:EOLhyphen"/>ing the Goods of one <hi>Thomas Gardiner</hi> of the value of 10 <hi>l.</hi> 10<hi>s.</hi> the 31ſt. of <hi>May</hi> laſt: He pleaded not Guilty; but upon his Examination he had confeſſed the Fact before the Juſtice of Peace, that he ſtole ſome of the Goods, and likewiſe confeſſed the ſame to the Conſtable who took him, and was found guilty to the value of 10 <hi>d.</hi>
+                  </p>
+                  <p>
+                     <hi>John Bibby</hi> and <hi>Edward Haines</hi> were Indicted for a Robbery upon <hi>Thomas Jenkes</hi> at <hi>Clapham</hi> the 31ſt. of <hi>May</hi> laſt, and taking from him a ſilver Box and other Goods: <hi>Jenkes</hi> he was Robb'd, and did believe the Priſoners to be the Perſons, but would not ſwear poſitively to the Faces. The ſilver Box was found near the Place where the Priſoners were taken, which was not far from the place where the Robbery was committed, with Strings in their Pockets: But the Evidence conſiſting only in Circumſtances, they were Acquitted.</p>
+                  <p>
+                     <hi>Jane Feild</hi> and <hi>Joſeph Feild</hi> were Indicted for Feloniouſly ſtealing on the 7th. of <hi>June,</hi> Goods and Money to the value of 5 <hi>l.</hi> 18 <hi>s.</hi> 6 <hi>d.</hi> from one <hi>Butler Noads:</hi> The Priſoner, as it did ap<g ref="char:EOLhyphen"/>pear by the Evidence, was taken into <hi>Noads</hi>'s Houſe for a Wet Nurſe, and ſhe abſenting her ſelf from the Houſe, the Proſecutor <hi>Noads</hi> miſ<g ref="char:EOLhyphen"/>ſed his Money, and preſently purſued the Priſo<g ref="char:EOLhyphen"/>ner, and took her, but found no Goods or Mo<g ref="char:EOLhyphen"/>ney about her; but being no body elſe had been in the Houſe, ſhe was greatly miſtruſted, yet for want of Evidence ſhe was Acquitted.</p>
+                  <p>
+                     <hi>James Ball</hi> Indicted of Felony, for ſtealing one Weather Sheep value 19 <hi>s.</hi> from <hi>Thomas Curd,</hi> the 29th. of <hi>May</hi> laſt; the Sheep was firſt taken in <hi>Middleſex</hi> and conveyed over the Water into <hi>Surrey.</hi> One <hi>Rauſon</hi> a Witneſs for the King, followed the Sheep upon Enquiry over the Water to the <hi>Falcon,</hi> and found it where the Priſoner was ſuppoſed to have tyed it; but the party that could prove the bring<g ref="char:EOLhyphen"/>ing of the Sheep thither by the Priſoner, did not appear in Court to give Evidence; and ſo he was found not Guilty.</p>
+                  <pb n="8" facs="tcp:36406:5"/>
+                  <p>
+                     <hi>Jacob Suttibey</hi> was Indicted of Burglary, for Breaking the Houſe of <hi>Thomas Roffey</hi> in the Night, and ſtealing thence 40 <hi>s.</hi> in Money: <hi>Suttibey</hi> the day before this Burglary was com<g ref="char:EOLhyphen"/>mitted, was delivered out of the <hi>Marſhalſea,</hi> where he had lain ſome time. <hi>Roffey</hi> proved his Houſe Broke open that Night, and 2 <hi>l.</hi> to be ſtolen from him; his Man found an old Knife behind the Counter, and then going down into the Cellar, he found the Cellar door open; other Witneſſes proved the Knife to be the Pri<g ref="char:EOLhyphen"/>ſoners, and that they had ſeen him cutting his Victuals with it the day before the Houſe was Broken: Another Witneſs likewiſe proved him to be in an Alley near <hi>Suttibey</hi>'s Houſe, about Twelve a Clock that Night: But becauſe it might poſſibly happen that <hi>Suttibey</hi> might have loſt his Knife, and another have found it, which might commit the Burglary, the Priſo<g ref="char:EOLhyphen"/>ner was Acquitted</p>
+                  <p>
+                     <hi>Elizabeth Waterman</hi> was Indicted for the Murther of <hi>Mary Waterman</hi> her Daughter, up<g ref="char:EOLhyphen"/>on the 9th. of <hi>May</hi> laſt: It appeared that the Priſoner lay with her Daughter, and had been ſometimes of unſound Memory, and all in the Houſe had endeavoured to hide from her every thing whereby ſhe might do her ſelf Miſchief; but another Daughter being below Stairs, and hear<g ref="char:EOLhyphen"/>ing ſome unuſual Noiſe above, ran up and found the Child <hi>Mary Waterman</hi> lying on the Ground with its Throat Cut, and the Priſoner preparing to do the like Execution upon her own Throat, which ſhe prevented by ſnatching the Razor which ſhe had got out of her Hands: And it appearing that the ſaid <hi>Elizabeth Waterman</hi> had been before frequently Diſtracted, ſhe was Ac<g ref="char:EOLhyphen"/>quitted of the Murther.</p>
+                  <p>
+                     <hi>William Saunders</hi> was Indicted for ſtealing one Cabinet, value 2 <hi>s</hi> and two pair of Worſted Stockings, and 3 <hi>l.</hi> 15 <hi>s.</hi> in Money, from one <hi>Samuel Hur<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ck,</hi> the 28th. of <hi>April</hi> laſt. The Priſoner when taken confeſſed the Fact, and told the Proſecutor where he had put his Ca<g ref="char:EOLhyphen"/>binet and Stockings, and there they were found, as the Priſoner had ſaid, and thereupon the Pri<g ref="char:EOLhyphen"/>ſoner was found guilty of Felony.</p>
+                  <p>
+                     <hi>A<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ice Parker</hi> and <hi>Mary Crooke</hi> were both Indicted for Breaking the Houſe of one <hi>Ma<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ell Chapman</hi> in the day time the ſaid <hi>Mabell</hi> be<g ref="char:EOLhyphen"/>ing in the Houſe, and ſtealing thence a ſilver Tankard value 5 <hi>l.</hi> and one ſilver Spoon, value 5 <hi>s.</hi> one p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ece of Angel Gold and a ſilver Chain on the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Ja<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> laſt. Upon the Evidence it appeared that two Women and two Men came into <hi>Chapmans</hi> Houſe and called for Drink and after they had ſtayed there ſome time, they paid their Reckoning and departed, and in a little time after, the Goods were miſſed, and no body elſe was obſerved to come into the Houſe be<g ref="char:EOLhyphen"/>tween the miſſing of the Goods and their Drink<g ref="char:EOLhyphen"/>ing there: The two Priſoners were Sworn to be the two Women that were in the Houſe, and the Men were never found: But no Goods be<g ref="char:EOLhyphen"/>ing found upon the Priſoners, and becauſe ſome body elſe might poſſibly come into the Houſe unobſerved, the Priſoners were Acquitted.</p>
+                  <p>
+                     <hi>Mary Adds, Matthew Wright;</hi> and <hi>Daniel Barret,</hi> were Indicted for ſtealing Goods to the value of 3 <hi>l.</hi> 19 <hi>s.</hi> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. from <hi>William Biſtow;</hi> but the Evidence amounting but to a bare Suſpici<g ref="char:EOLhyphen"/>on, and the Goods nor any of them being found about the Priſoners, they were brought in not Guilty.</p>
+                  <p>
+                     <hi>Black Peter</hi> a Negroe, was Indicted for the abominable ſin of Buggery committed with a Mare the 7th. day of <hi>June</hi> laſt: Upon the Evi<g ref="char:EOLhyphen"/>dence it appeared that the Priſoner was ſeen with the Mare in an unſeemly manner; but the Witneſſes being at a conſiderable diſtance from the place where the Mare ſtood, could not prove enough to amount to an Evidence that could Convict the party, and therefore the Jury found him not Guilty.</p>
+                  <p>
+                     <hi>Thomas Webb</hi> was Indicted for ſtealing one Cock, value 2 <hi>s.</hi> and five tame Pidgeons, value 2 <hi>s.</hi> from one <hi>Peter Harwood,</hi> on the 11th. day of <hi>June</hi> laſt paſt; he was taken by the Watch with the Fowls about him, and that be<g ref="char:EOLhyphen"/>ing given in upon Evidence, he was Convicted of Felony to the value of 10 <hi>d.</hi>
+                  </p>
+                  <p>
+                     <hi>William Burroughs</hi> was twice Indicted; the the Firſt was for Breaking the Houſe of one <hi>Nathaniel Collins,</hi> no Perſon being there, and ſtealing Goods, to the value of 1 <hi>l.</hi> 1 <hi>s.</hi> 5<hi>d.</hi> and 30<hi>l.</hi> in Money. The Second Indictment was for Break<g ref="char:EOLhyphen"/>ing the Houſe of one <hi>Mary Loyd</hi> in the Night, on the 4th. of <hi>March</hi> laſt, and ſtealing Goods to a conſiderable value, and 90 <hi>l.</hi> in Money. There was but little Evidence given to prove the firſt Indictment, and the party was Acquit<g ref="char:EOLhyphen"/>ted thereof. But as to the ſecond Indictment a Gentlewoman that was then in the Houſe, proved that the Priſoner was in the Houſe, and particularly in her Chamber, and that he was there for above an hours ſpace; that ſhe ſaw and obſerved his Face, being without any Mask; that he held her Hands whileſt another Bound her, and then Kiſſed her: She being frequently asked whether ſhe were ſure that was the Per<g ref="char:EOLhyphen"/>ſon ſhe ſtill permited that ſhe knew him. There
+<pb n="9" facs="tcp:36406:5"/> were ſeveral other Witneſſes bound to give E<g ref="char:EOLhyphen"/>vidence, but they appeared not upon their Re<g ref="char:EOLhyphen"/>cognizance; and upon the Evidence, the Pri<g ref="char:EOLhyphen"/>ſoner was found Guilty.</p>
+                  <p>
+                     <hi>William Ball</hi> was Indicted of Felony, for ſteal<g ref="char:EOLhyphen"/>ing Goods to the value of 13 <hi>s.</hi> from one <hi>Thomas Gueſt,</hi> the 1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th. of <hi>July</hi> laſt. Some of the Goods were found in his Breeches, and not be<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng able to prove how he came by them, was found Guilty of Petty-Larceny.</p>
+                  <p>
+                     <hi>John Francis,</hi> for Felony, in ſtealing five Buſhels of Oats of the value of 7 <hi>s.</hi> and 6 <hi>d.</hi> and one Buſhel of Tares, from one <hi>William Hughes.</hi> It appeared upon the Evidence, that a Horſe was tracked without a Shoe from <hi>Hughes</hi> his Houſe to <hi>Francis;</hi> and Oats were ſprinkled by the way, and more found in <hi>Francis</hi>'s Houſe; but no being able to Swear poſitively that they were <hi>H<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ghes</hi> his Oats, he was Acquitted.</p>
+                  <p>The ſame <hi>Francis</hi> was a ſecond time Indicted for ſtealing ſeven Ducks and eight Chickens, the 30th. of <hi>Auguſt,</hi> the Third of this King. The ſame number of Fowls were found in a Wood by a Shepherd, and taken away by h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. And after the Priſoner was obſerved to come to the place where the Fowls had been found. But there being no further Evidence, he was Acquitted.</p>
+                  <p>
+                     <hi>John Notteridge,</hi> Indicted of the Murther of one <hi>Andrew Reballow,</hi> by throwing down and kicking him on the Head, Breaſt and Stomach. It ap<g ref="char:EOLhyphen"/>peared that they were firſt at a Play, called <hi>Baiting the Bear,</hi> and after fell out and fought at Fifty-cuffs, and <hi>Reballow</hi> gave ſeveral Falls to <hi>Notteridge;</hi> but the Party deceaſed lived not above a Fortnight after. And the Jury not believing him to die of an Injury gotten at that time Acquitted the Priſoner.</p>
+                  <p>
+                     <hi>William Benſon,</hi> Indicted of Burglary the 24th. of <hi>June,</hi> for Preaking-open the Houſe of Mr. <hi>Ri<g ref="char:EOLhyphen"/>chard Hill,</hi> in the Night, and ſtealing 32 <hi>s.</hi> and 6 <hi>d. Hill</hi> was not poſitive in his Evidence that his Houſe was Broke, becauſe poſſibly he might leave his Windows open. But the Priſoner be<g ref="char:EOLhyphen"/>ing charged to confeſs when he was firſt taken, told where ſome of the Goods were, and they were found accordingly. And the Jury found him Guilty of ſtealing the Goods found upon his Confeſſion, and that they were of the value of 10 <hi>d.</hi>
+                  </p>
+                  <list>
+                     <head>The Tryals being over, the Court proceeded to give Judgment as follows.</head>
+                     <item>
+                        <list>
+                           <head>3 Received Sentence of <hi>Death, <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>James Hopewas,</hi>
+                           </item>
+                           <item>
+                              <hi>Matthew Eldridg,</hi> and</item>
+                           <item>
+                              <hi>William Burroughs.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>2 were <hi>Burnt</hi> in the <hi>Hand, <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>William Saunders,</hi> and</item>
+                           <item>
+                              <hi>Owen Moriarty.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>5 To be <hi>Whipped, <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>Thomas Web,</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Heaſey,</hi>
+                           </item>
+                           <item>
+                              <hi>John Worral,</hi>
+                           </item>
+                           <item>
+                              <hi>William Benſon,</hi> and</item>
+                           <item>
+                              <hi>William Ball.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Matthew Eldridge</hi> was after Judgment Reprieved by the Court for Tranſpor<g ref="char:EOLhyphen"/>tation.</item>
+                     <item>
+                        <list>
+                           <head>7 Pardoned to be <hi>Tranſported, <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>William Sedgewick,</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Potenger,</hi>
+                           </item>
+                           <item>
+                              <hi>William Jones,</hi>
+                           </item>
+                           <item>
+                              <hi>John Powel,</hi>
+                           </item>
+                           <item>
+                              <hi>Francis Low,</hi>
+                           </item>
+                           <item>
+                              <hi>Ann Spencer,</hi> and</item>
+                           <item>
+                              <hi>Thomas Johnſon.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <div type="proceeding">
+               <head>The Proceedings at <hi>Eaſt-Grinſtead,</hi> in the County of <hi>Suſſex,</hi> on <hi>Thurſday</hi> and <hi>Friday,</hi> being the 2d. and 3d. of <hi>August,</hi> 1688.</head>
+               <p>AT the <hi>Aſſizes</hi> held at <hi>Eaſt-Grinſtead,</hi> in <hi>Suſſex,</hi> on <hi>Thurſday</hi> and <hi>Friday,</hi> being the 2d. and 3d. of <hi>Auguſt,</hi> 1688. the Commiſſion was read before Sir <hi>Thomas Street,</hi> Knt. and the Jury was Sworn, which were,
+<list>
+                     <item>
+                        <hi>Edward Head,</hi>
+                     </item>
+                     <item>
+                        <hi>John Rown,</hi>
+                     </item>
+                     <item>
+                        <hi>Jaſper Wheeler,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Maynard,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Pelling,</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Higget,</hi>
+                     </item>
+                     <item>
+                        <hi>William Storer,</hi>
+                     </item>
+                     <item>
+                        <hi>William Smith,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Corniſh,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Jeſſop,</hi>
+                     </item>
+                     <item>
+                        <hi>Jeremiah Pain,</hi>
+                     </item>
+                     <item>
+                        <hi>John Chapman,</hi>
+                     </item>
+                  </list>
+               </p>
+               <div type="part">
+                  <pb n="10" facs="tcp:36406:6"/>
+                  <head>The Tryals of the Priſoners were as follows.</head>
+                  <p>
+                     <hi>Lydia Stocker</hi> was Indicted for that ſhe on the 20th. day of <hi>February</hi> laſt did Kill and Murther her Male Baſtard Child. Upon the Evidence it appeared that Milk was found in the Priſoners Breaſt: Thoſe that ſaw it, charged her with having had a Child; ſhe confeſſed that ſhe had had one, but that it was born dead, and ſhe threw it into a Well; but the Child was found before any ſuch Confeſſion made; ſo the Woman not being able to Prove that the Child was born dead, according to the Statute of King <hi>James</hi> I. ſhe was found Guilty.</p>
+                  <p>
+                     <hi>Philip Clark,</hi> Indicted of Felony, for Breaking the Houſe of one <hi>Thomas Lomas,</hi> in the Day-time, on the 11th. day of <hi>July</hi> laſt, and ſtealing a Serge Waſtcoat of the value of 2 <hi>s.</hi> one Cloth Coat of the value of 6 <hi>s.</hi> one pair of Leather Breeches of the value of 10 <hi>s.</hi> two Handkerchiefs of the value of 6 <hi>d</hi> and one pair of Gloves of the value of 6 <hi>d.</hi> from one <hi>Thomas Howicke.</hi> The Proſecutor gave Evidence, That he found ſome of the Goods about the Priſoner, and he was found Guilty of the Felony only to the value of 4 <hi>s.</hi>
+                  </p>
+                  <list>
+                     <head>The Tryals being over, the Court proceeded to give Juſtice as follows.</head>
+                     <item>
+                        <hi>Lydia Stocker</hi> had Judgment of <hi>Death,</hi> but was Reprieved after by the Court.</item>
+                     <item>
+                        <list>
+                           <head>1 <hi>Burnt</hi> in the <hi>Hand,</hi> viz.</head>
+                           <item>Philip Clark.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Mary Knight</hi> attainted of Felony for ſtealing a Gelding, was Pardon'd abſo<g ref="char:EOLhyphen"/>lutely.</item>
+                     <item>
+                        <hi>Charles Bitrow</hi> and <hi>Wiliam Caſtleden</hi> attainted of ſeveral Felonies, now Pleaded his Majeſty's moſt Gracious Pardon, under condition of Tranſpor<g ref="char:EOLhyphen"/>tation.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="proceeding">
+               <head>The Proceedings at <hi>Rocheſter,</hi> in the County of <hi>Kent,</hi> on <hi>Monday, Tueſday</hi> and <hi>Wedneſday,</hi> being the 6th. 7th. and 8th. of <hi>August,</hi> 1688.</head>
+               <p>AT the <hi>Aſſizes</hi> held at <hi>Rocheſter,</hi> in <hi>Kent,</hi> on <hi>Monday, Tueſday</hi> and <hi>Wedneſday,</hi> being the 6th. 7th. and 8th. of <hi>Auguſt,</hi> 1688. the Com<g ref="char:EOLhyphen"/>miſſion was read before Sir <hi>Richard Allibon,</hi> Knt. and the Jury were Sworn, which were,
+<list>
+                     <item>
+                        <hi>William Morphew,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Goddard,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Shores,</hi>
+                     </item>
+                     <item>
+                        <hi>Abel Pennell,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Tilby,</hi>
+                     </item>
+                     <item>
+                        <hi>James Mead,</hi>
+                     </item>
+                     <item>
+                        <hi>James Nott,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Firmes,</hi>
+                     </item>
+                     <item>
+                        <hi>William Harvey,</hi>
+                     </item>
+                     <item>
+                        <hi>John Street,</hi>
+                     </item>
+                     <item>
+                        <hi>James Andrews,</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Creſwell.</hi>
+                     </item>
+                  </list>
+               </p>
+               <div type="part">
+                  <head>The Tryals of the Priſoners were as follows.</head>
+                  <p>
+                     <hi>Elizabeth Naſh</hi> was Indicted for the Murther of her Female Baſtard Child, the 19th. day of March laſt paſt. It appeared by Mrs. <hi>Codd,</hi> the chief Evidence, with whom the Priſoner had ſome acquaintance formerly, that the night be<g ref="char:EOLhyphen"/>fore the Child was found, the Priſoner came to the Houſe where Mrs. <hi>Codd</hi> dwelt, in the Night, and having knockt at the door, ſhe ſaid ſhe came from <hi>London,</hi> and was bit by a Dog, and deſired ſome Drink, and Wood to light a Fire, with which when Mrs. <hi>Codd</hi> had ſupply'd her, ſhe went to Bed,; but perceiving that the Priſoner had gone into ſome place where ſhe was not di<g ref="char:EOLhyphen"/>rected, Mrs. <hi>Codd</hi> roſe again, and then the Pri<g ref="char:EOLhyphen"/>ſoner asked her where the Houſe-of-Office was; and being ſhewn, ſhe went thither, and the next morning a Female Child was found. But there being no other Evidence to prove that it was the Priſoners Child, or that ſhe did Murther it; and Mrs. <hi>Codd</hi> alledging that the Child was not full grown, the Priſoner was Acquitted.</p>
+                  <p>
+                     <hi>Edward Stedwell</hi> was Indicted for Stealing a pair of Sheets of the value of 50 <hi>s.</hi> the 8th. of <hi>February,</hi> the Third of this King. The only Witneſs was Daughter-in-Law to the Priſoner, and ſhe miſſing the Sheets, went to an Ale-houſe where ſhe thought to find her Father,, and there did demand the Sheets; which her Father as readily denied to give her, but did not deny his ha<g ref="char:EOLhyphen"/>ving them, but alledged that they were his Wives. So the Jury preſuming that the Priſoner took them as his own, without any Felonious Intent, found him Not Guilty.</p>
+                  <p>
+                     <hi>Richard Pulley</hi> Indicted of a Burglary in the Houſe of Mr. <hi>Robert Goulet,</hi> the 17th. day of <hi>May</hi> laſt paſt, and ſtealing one Gown value 5 <hi>s.</hi> one Petticoat value 3 <hi>s.</hi> five Yards of Kirſey, value 5 <hi>s.</hi> ſeven Yards of Linſey-woolſey, value 7<hi>s.</hi> and two pair of Breeches, value 2 <hi>s.</hi> The Evi<g ref="char:EOLhyphen"/>dence againſt the Priſoner proved that his Houſe was Broke, and that he loſt the Goods afore-men<g ref="char:EOLhyphen"/>tioned, and preſently he ſent Hue and Cry, and
+<pb n="11" facs="tcp:36406:6"/> thereby the Priſoner was taken with the Goods about him. He made no defence, but that he found the Goods upon the Road, neither could he bring any Witneſs to prove his Reputation, and therefore was found Guilty of the Felony, and Acquitted of the Breaking the Houſe.</p>
+                  <p>
+                     <hi>Abraham Rodean,</hi> alias <hi>Rodon</hi> was Indicted of the Murther of one <hi>John Hornet,</hi> the 28th. day of <hi>April</hi> laſt. The Priſoner and the Party ſlain were left together in a Room by one <hi>John Delnael</hi> a Frenchman, about Ten a Clock that Night, and before Eleven, <hi>Murther</hi> was heard to be cried out by the next Neighbours; but all things being ſtill again, and the door ſhut, the Neigh<g ref="char:EOLhyphen"/>bours took no notice of it; but the next morning the deceaſed was found with his Throat Cut, and and ſeveral Wounds in his Breaſt, lying over a Threſhold of an Inner-door. The Priſoner con<g ref="char:EOLhyphen"/>feſſed the Fact, before his Tryal to ſeveral, and appeared to be under a great remorſe of Con<g ref="char:EOLhyphen"/>ſcience, a bloody Knife was found upon the Seat where the Priſoner was uſed to work (being by Trade a Shoemaker;) he had likewiſe confeſſed the taking of fifteen Shillings in Money, and ſome Farthings, out of the Deceaſed's Pocket, and told where he had hid it, and it was found accor<g ref="char:EOLhyphen"/>dingly, in the Tiles of the Chamber where the Priſoner lay before he was taken, being asked what he could ſay for himſelf, he in Court Con<g ref="char:EOLhyphen"/>feſſed the whole Matter, and that he did it with the Knife there produced; and being ask'd why he did ſo Barbarous an Act, he anſwered, That he had left God, and God had therefore left him: He was under great Apprehenſion of Hanging in Chains, and therefore made it his chief requeſt to be Buried after Execution; which the Court did not deny, and he was found Guilty.</p>
+                  <p>
+                     <hi>James Philips</hi> was Indicted for the Murther of one <hi>William Beckton,</hi> the 18th day of <hi>April</hi> laſt paſt, by ſtabbing him with a Sword a little above his Navil. The Priſoner and the Deceaſed fell out, and went out of the Houſe where they had been together, and being followed by ſome that would have prevented the miſchief, they both drew at a Corner, ſo that it was not known who made the firſt Paſs. The Priſoner Diſarmed the Deceaſed, and after gave him his Sword again; but the heat not being over, they fought again at Fifty-cuffs for ſome time, and after<g ref="char:EOLhyphen"/>wards drew their Swords again, and the De<g ref="char:EOLhyphen"/>ceaſed was kill'd upon the ſpot. All which matter appearing upon the Evidence, the Pri<g ref="char:EOLhyphen"/>ſoner was found Guilty of Manſlaughter.</p>
+                  <p>
+                     <hi>William Tongue</hi> was Indicted for ſtealing a Bay Gelding of five Pound price, from one <hi>William Randolph,</hi> Eſq The Gelding was put out to Graſs, and being miſſed for four days, Hue and Cry was ſent after him with his Marks. The Horſe was found at the Poſt-houſe in <hi>Canterbury,</hi> and the Conſtable left this Charge, That when any one came to take the Horſe, that he might be ſent for; and the Priſoner coming, was ac<g ref="char:EOLhyphen"/>cordingly ſeized, and alledged that it was his Maſter's Horſe, and giving a good Account of himſelf, and that his Maſter had one very like him, which he might miſtake, the Priſoner was found Not Guilty.</p>
+                  <p>
+                     <hi>Patrick Key</hi> was Indicted of the Murther of one <hi>John Smith,</hi> with his Sword, the 18th. day of <hi>April laſt.</hi> The Priſoner and Deceaſed were Drinking together, and the Deceaſed by threat<g ref="char:EOLhyphen"/>ning, forced the Priſoner to go out into the Field. And one <hi>Vine</hi> another Soldier, would have parted them, but the Deceaſed told <hi>Vine,</hi> That if he would not ſtand clear, but interpoſe in this mat<g ref="char:EOLhyphen"/>ter, he would run him through (having then his Sword drawn) and ſo <hi>Vine</hi> withdrew for a little ſpace, and the Deceaſed made his Paſs at the Priſoner, who then guarded the Blow, and gave the Deceaſed preſently at the next paſs, his Mortal Wound, which the Deceaſed perceiving, darted his Sword at the Priſoner, and cried out that he was Mortally wounded, and bid the Priſoner ſhift for himſelf. Upon this Evidence, the Priſoner was Acquitted of the Murther, and found Guilty of Killing the ſaid <hi>John Smith</hi> in his own defence.</p>
+                  <p>
+                     <hi>James Skiffe</hi> was Indicted for the Murther of one <hi>Richard Hither,</hi> the Fifth of <hi>July</hi> laſt paſt, by throwing him down upon a Sythe, which made a Wound half an Inch broad, and five Inches deep. Upon the Evidence it appeared, that they were at work, and were uſed to play together; the Priſoner thruſt down the Deceaſed, and he fell upon the Sythe. It did not appear that there was any malice in the Priſoner, and ſo he was Acquitted, but confeſſed an Indictment for Killing the ſame Man by Misfortune.</p>
+                  <p>
+                     <hi>William Stace</hi> was Indicted of Felony, for Breaking the Hou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of one <hi>Richard Frencham,</hi> in the Day-time, the 28th. day of <hi>June</hi> laſt, no perſon being then in the houſe, and ſtealing Goods and Money to the value of Three and twenty Shillings, or thereabout. The Priſoner being very young, about Twelve years of Age, Confeſſed the Fact before the Juſtice of Peace, and that one <hi>
+                        <g ref="char:V">Ʋ</g>nderwood</hi> was with him, who is fled, and ſtands Indicted for the ſame Fact. The Priſoner alledged in his Defence, that he was
+<pb n="12" facs="tcp:36406:7"/> under a great Indiſpoſition for want of ſleep, and being under great Threats, he Confeſſed it, to procure his Eaſe at preſent, and ſo the Jury conſider'd the tender years of the Priſoner, and found him Not Guilty.</p>
+                  <p>
+                     <hi>John Devereux</hi> was Indicted for throwing one <hi>John Baker</hi> into the <hi>Thames,</hi> with intent to drown him. It appeared that <hi>Baker</hi> was in a Lighter, and <hi>Devereux</hi> being in an Hoy, the Hoy fell foul upon the Lighter and ſplit it, ſo that <hi>Baker</hi> was forced to get into the Hoy, where being found by <hi>Devereux,</hi> he was ordered by him to be put into the Lighter again, which being ready to ſink, <hi>Baker</hi> was forced to commit himſelf to the Water, and had periſhed, had he not been taken up by a ſmall Boat that came by when he was in the utmoſt extremity. The Priſoner was Con<g ref="char:EOLhyphen"/>victed, and ordered to Stand upon the Pillory, at <hi>Eaſt-Greenwich,</hi> and Fined Ten Pounds, and to lye in Priſon till he paid it.</p>
+                  <list>
+                     <head>The Tryals being over, the Court proceeded to give Judgment as follows.</head>
+                     <item>
+                        <list>
+                           <head>1 Received Sentence of <hi>Death, <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>Abraham Rodon,</hi> alias <hi>Rodenn</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>2 Were <hi>Burnt</hi> in the <hi>Hand, <hi>viz.</hi>
+                              </hi>
+                           </head>
+                           <item>
+                              <hi>Richard Pullen,</hi>
+                           </item>
+                           <item>
+                              <hi>James Philips.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>3 <hi>Pardoned</hi> Abſolutely <hi>viz.</hi>
+                           </head>
+                           <item>
+                              <hi>Heſter Floyd,</hi>
+                           </item>
+                           <item>
+                              <hi>John Merchant,</hi>
+                           </item>
+                           <item>
+                              <hi>John Bakenham,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>9 Pleaded his Majeſties Gracious <hi>P<gap reason="illegible" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>
+                              </hi> for <hi>Tranſportation,</hi>
+                           </head>
+                           <item>
+                              <hi>Henry Shorter,</hi>
+                           </item>
+                           <item>
+                              <hi>Iſaac Badford,</hi> alias <hi>Bradford,</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Welſh,</hi> alias <hi>Shipmarſh,</hi>
+                           </item>
+                           <item>
+                              <hi>John Baker,</hi>
+                           </item>
+                           <item>
+                              <hi>Cornelius Hill,</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Pritchard,</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Davis,</hi>
+                           </item>
+                           <item>
+                              <hi>Ricus Cole,</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Thompſon.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
